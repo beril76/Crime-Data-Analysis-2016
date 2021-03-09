@@ -1,9 +1,11 @@
 # Crime Data Analysis 2016
 
-Problem Statement 
+#Problem Statement
+
 To analyse the crimes in India of the year 2016 and see the crime pattern.
 
-Description
+#Description
+
 
 The dataset was obtained from data.gov.in. It consists of the crime data of the states of India of the year 2016.
 
@@ -15,7 +17,7 @@ We  also came up with a Crime Rate Plot of India which was done using the Leafle
 
 Various plots for the 4 crimes were obtained and analysed.
 
-UI
+
 
 
 
